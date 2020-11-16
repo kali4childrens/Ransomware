@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+# code by: Kali4childrens
 
 import os, zlib
 from Crypto import Random
